@@ -343,6 +343,9 @@ paket-files/
 **/__pycache__/
 *.pyc
 
+# Gradio folder
+.gradio/
+
 # Cake - Uncomment if you are using it
 #tools/**
 #!tools/packages.config
